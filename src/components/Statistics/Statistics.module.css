@@ -1,0 +1,8 @@
+.statList {
+}
+
+.statItem {
+  font-size: 22px;
+  font-weight: 400;
+  list-style: square;
+}

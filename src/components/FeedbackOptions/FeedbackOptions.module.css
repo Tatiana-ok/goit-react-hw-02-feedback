@@ -1,0 +1,13 @@
+.listOptions {
+  display: flex;
+  list-style: none;
+}
+
+.itemOptions {
+  margin-right: 10px;
+  background-color: rgb(221, 234, 238);
+  font-size: 22px;
+  font-weight: 400;
+  border-radius: 4px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+}
